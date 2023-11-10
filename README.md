@@ -152,12 +152,11 @@ Esto te permitirá ejecutar comandos dentro de esa base de datos.
 Puedes copiar el script contenido dentro `alquilerVehiculosCampus.sql` y pegarlo en tu consola para generar la ejecucion.
 
 
-## INFORMACION ADICIONAL 
+## Construido con 🛠️
 
-Para obtener más detalles sobre la estructura de las tablas y cómo utilizar la base de datos, consulta la sección correspondiente en este archivo.
-
-Si surge algún problema durante estos pasos, asegúrate de que estás utilizando las credenciales y rutas correctas.
-
+* [Notion](https://notion.so/es-es/product) - Para el diseño del modelo conceptual utilizamos notion 
+* [Mysql Workbench](https://www.mysql.com/products/workbench/) - Para el diseño fisico
+* [Readme.so](https://readme.so/editor) - Herramienta de construccion de Readme
 
 
 
